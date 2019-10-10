@@ -6,3 +6,8 @@ Panel de administrador adicional muy simple que sirve para gestionar el saldo de
 - Poloniex API
 
 Recarga todas tus faucet a la vez, sin necesidad de logear una por una.
+
+
+![Materials](https://raw.githubusercontent.com/damianS7/faucet-admin/master/images/dashboard.png)
+![Materials](https://raw.githubusercontent.com/damianS7/faucet-admin/master/images/login.png)
+![Materials](https://raw.githubusercontent.com/damianS7/faucet-admin/master/images/send-modal.png)
